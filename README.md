@@ -42,7 +42,7 @@ Weight vs Price Analysis → Correlation of product weight with pricing.
 Profitability & Arbitrage Opportunities → Identifying products priced significantly lower on one platform compared to others.
 Outlier Detection → Spotting unusually high/low pricing.
 
-Example Visualizations (add screenshots here):
+Example Visualizations :
 Sales trends over time
 Category-wise revenue contribution
 Heatmap of price correlations across platforms
